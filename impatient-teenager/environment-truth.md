@@ -85,7 +85,17 @@
 - **Condition:** Good, vibrant colors
 - **Why:** Represents Alex's diverse music taste
 
-### Poster 3: Tame Impala
+### Poster 6: Additional Band/Anime Poster (Above KALLAX)
+- **Location:** Right wall, above IKEA KALLAX unit
+- **Size:** 24" x 36" (standard poster size)
+- **Image Options:**
+  - **Option A:** The Strokes "Is This It" album cover (indie rock, matches Arctic Monkeys vibe)
+  - **Option B:** Mac Miller "Swimming" or "Circles" poster (hip-hop, diverse taste)
+  - **Option C:** Studio Ghibli poster (Spirited Away or Nausicaä - anime but not mecha)
+- **Frame:** None (taped with colorful washi tape, matching other posters)
+- **Condition:** Good, vibrant colors
+- **Why:** Fills empty wall space above storage, adds to curated aesthetic
+- **Note:** NOT printed paper or logo - must be proper poster with washi tape corners
 - **Location:** Right wall, visible in wide shots
 - **Size:** 24" x 36"
 - **Image:** "Currents" album art (psychedelic wave, purple/blue swirls)
@@ -164,6 +174,51 @@
 - **Color:** Black or white
 - **Location:** Above desk, holds Funko Pops and small items
 - **Quantity:** 2-3 shelves, staggered arrangement
+
+### Storage Unit (Opposite Wall)
+- **Type:** IKEA KALLAX 2x4 shelf unit (black-brown, matches bed frame)
+- **Color:** Black-brown (`#3B3B3B`)
+- **Size:** 30" x 58" (2 cubes wide, 4 cubes high)
+- **Location:** Right wall (opposite desk), visible from bed looking toward doorway
+- **Contents:**
+  - **Top cubes:** Storage baskets (black fabric bins with handles) - **NO electronics, NO laptop, NO speaker**
+  - **Middle cubes:** Vinyl record collection (30-40 records, colorful spines visible)
+  - **Bottom cubes:** Board games, manga collection, miscellaneous items
+  - **Top surface:** **ONLY** small items like plant or charging cable - **NO JBL speaker, NO laptop, NO phone** (these are desk items)
+- **Wall above KALLAX:** Additional poster space - should fit Alex's aesthetic (band/anime poster with washi tape, NOT printed paper/logo)
+- **Why:** Alex needs storage for growing vinyl collection + keeps room organized
+- **Note:** Visible in wide shots and bed-to-doorway perspective, appears as black furniture piece on far right
+
+### Corkboard (Wall Organization)
+- **Location:** Wall behind desk, above desk surface (centered or slightly left)
+- **Size:** Approximately 24" x 18" (standard small corkboard)
+- **Color:** Natural cork (tan/brown, `#C4A57B`)
+- **Frame:** None or thin black frame (minimalist)
+- **Mounting:** Push pins or washi tape corners
+- **Contents:**
+  - **Monthly calendar:** Printed monthly calendar for **January 2026**, pinned to top-left corner
+    - Grid layout with dates visible
+    - Some dates circled in red (important events)
+    - Header reads "JANUARY 2026" in bold
+  - **Sticky notes:** Exactly **10 sticky notes** with **UNIQUE handwritten text (NO DUPLICATES)**:
+    1. "Finish React component" (yellow, top row)
+    2. "Call mom - Sat" (pink, top row)
+    3. "Boba run w/ Sarah?" (blue, middle row)
+    4. "Lyrics idea - bridge" (green, middle row)
+    5. "Update portfolio" (yellow, middle row)
+    6. "Concert tix - Feb 14" (pink, bottom row)
+    7. "Laundry this weekend" (blue, bottom row)
+    8. "Email prof about grade" (yellow, bottom row)
+    9. "Try new ramen place" (green, bottom row)
+    10. "Watch new A24 film" (pink, bottom row)
+    **NOTE:** Each sticky note must have DIFFERENT text - no duplicates allowed!
+  - **Small prints/photos:** 3 prints of **places/objects** (NOT people - faces cause generation issues):
+    1. **Tokyo street scene** (neon signs, urban night - aesthetic city pop vibe)
+    2. **Vinyl record collection** (stack of records, colorful album art visible)
+    3. **Concert ticket stub** (Arctic Monkeys or Tame Impala - closeup of ticket with date/venue)
+  - **Push pins:** Colorful push pins visible (red, blue, yellow, green, purple) - used to mount calendar, sticky notes, and prints
+- **Why:** Alex uses it for active tasks and current month planning - more dynamic than static posters
+- **Note:** Corkboard is ONLY behind desk area, NOT in wide bedroom shots (out of frame)
 
 ---
 
@@ -268,7 +323,7 @@
 - **Why:** For filming TikToks/reels
 
 ### Stuffed Animals
-- **Primary:** Squishmallow (large, 12-16", purple or black cat)
+- **Primary:** Squishmallow (large, 12-16", **calico cat pattern: white body with black splotches on left-bottom and left ear, brown splotch on right ear/head**)
 - **Secondary:** Anime plush (smaller, 6-8", Chainsaw Man Pochita or similar)
 - **Position:** On bed, near pillows, casually placed
 - **Why:** Comfort items, also aesthetic
@@ -301,6 +356,13 @@
 - ✅ At least 1 anime poster visible
 - ✅ Washi tape on all posters (no frames)
 - ✅ Organized chaos (not clean, not filthy)
+
+### ALWAYS Present (In Desk Closeup Shots ONLY)
+- ✅ Corkboard with monthly calendar + colorful sticky notes (8-12 notes)
+- ✅ Push pins visible on corkboard
+- ✅ Floating shelves with Funko Pops
+- ✅ Sticker-covered laptop
+- ✅ Drink containers (Hydro Flask, LaCroix cans)
 
 ### NEVER Present
 - ❌ Family photos (Alex doesn't display these)

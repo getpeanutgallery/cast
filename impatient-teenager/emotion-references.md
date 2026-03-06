@@ -243,3 +243,257 @@ After completing Category 1 (Friction & Cognitive Load):
 **Created:** 2026-03-06  
 **Based on:** Alex Chen master reference sheet  
 **Status:** Ready to generate Category 1 emotions
+
+## Category 2: Desirability & Engagement
+
+### 6. Excitement
+
+**Trigger:** Highly engaging content, unexpected plot twist, hilarious moment, content that exceeds expectations
+
+**Facial Expression:**
+- Eyebrows: Raised high
+- Eyes: Wide, bright, animated, pupils slightly dilated
+- Mouth: Open smile or laugh, teeth visible
+- Overall: High energy, animated
+
+**Body Language:**
+- Posture: Leaning in very close or thrown back slightly (laughing)
+- Hands: Gripping phone with both hands or gesturing with free hand
+- Shoulders: Raised, animated
+- Overall: High energy, fully captured, reactive
+
+**Intensity:** Strong (excitement is rare and valuable for Alex)
+
+**Prompt Addition:**
+```
+excited expression, eyebrows raised high, wide bright animated eyes with dilated pupils, open smile or laugh with teeth visible, high energy animated face, leaning in very close to screen or thrown back slightly laughing, gripping phone with both hands or gesturing with free hand, shoulders raised and animated, fully captured and reactive
+```
+
+---
+
+### 7. Boredom
+
+**Trigger:** Predictable content, slow pacing, generic messaging, nothing new or surprising
+
+**Facial Expression:**
+- Eyebrows: Relaxed, neutral (not engaged enough to furrow)
+- Eyes: Half-lidded, unfocused, glassy, looking through screen not at it
+- Mouth: Slightly open, relaxed, no expression
+- Overall: Disengaged, autopilot
+
+**Body Language:**
+- Posture: Deeply slouched, sinking into chair/bed
+- Hands: Phone held loosely in one hand, thumb scrolling mechanically
+- Shoulders: Slumped forward
+- Overall: Zero energy, scrolling on autopilot, about to scroll away
+
+**Intensity:** Moderate to strong (boredom = scroll away for Alex)
+
+**Prompt Addition:**
+```
+bored expression, relaxed neutral eyebrows not engaged, half-lidded unfocused glassy eyes looking through screen not at it, mouth slightly open and relaxed with no expression, disengaged autopilot face, deeply slouched posture sinking backward, phone held loosely in one hand with thumb scrolling mechanically, shoulders slumped forward, zero energy, about to scroll away
+```
+
+---
+
+### 8. Flow
+
+**Trigger:** Perfectly paced content, in the zone, losing track of time, content that matches Alex's rhythm
+
+**Facial Expression:**
+- Eyebrows: Relaxed, natural
+- Eyes: Focused, soft but engaged, following action smoothly
+- Mouth: Relaxed, slight natural smile (enjoying without realizing)
+- Overall: In the zone, effortless attention
+
+**Body Language:**
+- Posture: Balanced, comfortable, natural position
+- Hands: Phone held comfortably, thumb scrolling at steady rhythm
+- Shoulders: Relaxed
+- Overall: effortless engagement, not trying to pay attention, just naturally engaged
+
+**Intensity:** Moderate (flow is subtle - Alex doesn't realize they're in flow)
+
+**Prompt Addition:**
+```
+flow state expression, relaxed natural eyebrows, focused soft engaged eyes following action smoothly, relaxed mouth with slight natural smile of enjoyment, in the zone effortless attention face, balanced comfortable natural posture, phone held comfortably with thumb scrolling at steady rhythm, shoulders relaxed, effortless engagement not trying to pay attention just naturally engaged
+```
+
+---
+
+### 9. Joy
+
+**Trigger:** Genuinely funny content, heartwarming moment, content that surprises and delights
+
+**Facial Expression:**
+- Eyebrows: Relaxed, slightly raised
+- Eyes: Crinkled at corners (Duchenne smile), bright, warm
+- Mouth: Full genuine smile, teeth visible, cheeks raised
+- Overall: Authentic happiness, not performative
+
+**Body Language:**
+- Posture: Relaxed, open, leaning back slightly (comfortable enough to enjoy)
+- Hands: Phone held steadily, sometimes both hands when really engaged
+- Shoulders: Relaxed, down
+- Overall: Comfortable, genuinely enjoying, present in the moment
+
+**Intensity:** Strong (joy is rare for Alex - reserved for content that truly delivers)
+
+**Prompt Addition:**
+```
+joy expression, relaxed slightly raised eyebrows, crinkled eyes at corners with bright warm gaze (Duchenne smile), full genuine smile with teeth visible and cheeks raised, authentic happiness not performative face, relaxed open posture leaning back slightly comfortable, phone held steadily sometimes with both hands, shoulders relaxed and down, genuinely enjoying present in the moment
+```
+
+---
+
+### 10. Relief
+
+**Trigger:** Content that resolves tension well, satisfying conclusion, problem solved elegantly
+
+**Facial Expression:**
+- Eyebrows: Relaxing from tense position (visible release)
+- Eyes: Softening, slight exhale visible
+- Mouth: Exhaling, slight smile of satisfaction
+- Overall: Tension releasing, satisfied
+
+**Body Language:**
+- Posture: Exhaling, shoulders dropping from tense position
+- Hands: Phone held more loosely after tension
+- Shoulders: Dropping down (visible release of tension)
+- Overall: Letting go, satisfied with resolution
+
+**Intensity:** Moderate (relief follows tension - noticeable release)
+
+**Prompt Addition:**
+```
+relief expression, eyebrows relaxing from tense position with visible release, eyes softening with slight exhale visible, mouth exhaling with slight smile of satisfaction, tension releasing satisfied face, exhaling posture with shoulders dropping from tense position, phone held more loosely after tension, shoulders visibly dropping down releasing tension, letting go satisfied with resolution
+```
+
+---
+
+## Category 3: Trust & Security
+
+### 11. Trust
+
+**Trigger:** Credible source, transparent messaging, consistent branding, testimonials, social proof
+
+**Facial Expression:**
+- Eyebrows: Relaxed, natural position
+- Eyes: Soft, steady gaze, not darting or suspicious
+- Mouth: Relaxed, slight neutral-to-positive expression
+- Overall: Open, receptive, not defensive
+
+**Body Language:**
+- Posture: Balanced, comfortable, not leaning away
+- Hands: Phone held comfortably, thumb scrolling at normal pace
+- Shoulders: Relaxed, down
+- Overall: Willing to engage, guard down, open to message
+
+**Intensity:** Moderate (trust builds gradually for Alex)
+
+**Prompt Addition:**
+```
+trusting expression, relaxed natural eyebrows, soft steady gaze not darting or suspicious, relaxed mouth with slight neutral-to-positive expression, open receptive not defensive face, balanced comfortable posture not leaning away, phone held comfortably with thumb scrolling at normal pace, shoulders relaxed and down, willing to engage guard down open to message
+```
+
+---
+
+### 12. Skepticism
+
+**Trigger:** Too-good-to-be-true claims, vague promises, corporate speak, lack of evidence
+
+**Facial Expression:**
+- Eyebrows: One raised (asymmetric), or both slightly furrowed
+- Eyes: Narrowed slightly, evaluating, looking closely
+- Mouth: Slight grimace or pursed lips, skeptical
+- Overall: Questioning, not buying it yet
+
+**Body Language:**
+- Posture: Leaning back slightly (creating distance) or leaning in to scrutinize
+- Hands: Phone held steadily, thumb paused or scrolling slowly
+- Shoulders: Slightly raised (defensive)
+- Overall: Evaluating critically, not convinced, needs more proof
+
+**Intensity:** Moderate to strong (Alex's default state is skeptical)
+
+**Prompt Addition:**
+```
+skeptical expression, one eyebrow raised asymmetric or both slightly furrowed, narrowed evaluating eyes looking closely, slight grimace or pursed lips skeptical, questioning not buying it yet face, leaning back slightly creating distance or leaning in to scrutinize, phone held steadily with thumb paused or scrolling slowly, shoulders slightly raised defensive, evaluating critically not convinced needs more proof
+```
+
+---
+
+### 13. Anxiety
+
+**Trigger:** High-pressure CTAs, FOMO tactics, confusing privacy policies, requests for personal info too soon
+
+**Facial Expression:**
+- Eyebrows: Drawn together, raised in middle (worried look)
+- Eyes: Wide, darting slightly, concerned
+- Mouth: Tight lips or slightly open with tension
+- Overall: Uneasy, concerned, uncomfortable
+
+**Body Language:**
+- Posture: Tense, leaning away or frozen
+- Hands: Gripping phone tightly or fidgeting
+- Shoulders: Raised, tense
+- Overall: Uncomfortable, wants to exit, fight-or-flight response
+
+**Intensity:** Strong (anxiety = immediate negative association for Alex)
+
+**Prompt Addition:**
+```
+anxious expression, eyebrows drawn together and raised in middle in worried look, wide darting slightly concerned eyes, tight lips or slightly open with tension, uneasy concerned uncomfortable face, tense posture leaning away or frozen, gripping phone tightly or fidgeting with hands, shoulders raised and tense, uncomfortable wants to exit fight-or-flight response
+```
+
+---
+
+### 14. Empowerment
+
+**Trigger:** Content that teaches something valuable, tools that give control, actionable insights
+
+**Facial Expression:**
+- Eyebrows: Relaxed but alert
+- Eyes: Bright, focused, determined
+- Mouth: Slight confident smile, or determined neutral
+- Overall: Capable, in control, can do this
+
+**Body Language:**
+- Posture: Sitting up straighter, confident, engaged
+- Hands: Phone held firmly, actively interacting (not passive scrolling)
+- Shoulders: Back, confident posture
+- Overall: Taking action, feels capable, empowered by content
+
+**Intensity:** Moderate to strong (empowerment is valuable but subtle for Alex)
+
+**Prompt Addition:**
+```
+empowered expression, relaxed but alert eyebrows, bright focused determined eyes, slight confident smile or determined neutral mouth, capable in control can do this face, sitting up straighter confident engaged posture, phone held firmly with active interaction not passive scrolling, shoulders back confident posture, taking action feels capable empowered by content
+```
+
+---
+
+### 15. Confidence
+
+**Trigger:** Content that validates Alex's existing knowledge, confirms good decisions, reinforces identity
+
+**Facial Expression:**
+- Eyebrows: Relaxed, natural
+- Eyes: Confident, steady, knowing look
+- Mouth: Confident smile (not arrogant, but self-assured)
+- Overall: Validated, confirmed, good judgment affirmed
+
+**Body Language:**
+- Posture: Relaxed but upright, confident
+- Hands: Phone held comfortably, nodding slightly while scrolling
+- Shoulders: Relaxed, confident
+- Overall: Affirmed, good decision confirmed, identity reinforced
+
+**Intensity:** Moderate (confidence feels good, reinforces positive association)
+
+**Prompt Addition:**
+```
+confident expression, relaxed natural eyebrows, confident steady knowing eyes, confident smile not arrogant but self-assured, validated confirmed good judgment affirmed face, relaxed but upright confident posture, phone held comfortably with slight nodding while scrolling, shoulders relaxed confident, affirmed good decision confirmed identity reinforced
+```
+
+---
