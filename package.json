@@ -1,0 +1,7 @@
+{
+  "name": "cast",
+  "version": "1.0.0",
+  "description": "Cast module for peanut-gallery",
+  "main": "index.js",
+  "license": "MIT"
+}
