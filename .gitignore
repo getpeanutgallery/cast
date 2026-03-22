@@ -2,3 +2,7 @@
 # Dolt database files (added by bd init)
 .dolt/
 *.db
+
+# Beads local credential encryption key (never commit)
+.beads/.beads-credential-key
+.beads-credential-key
